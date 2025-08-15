@@ -45,17 +45,17 @@ export default {
 					900: '#1e293b',
 					950: '#0f172a'
 				},
-				voltOrange: {
-					50: '#fff7ed',
-					100: '#ffedd5',
-					200: '#fed7aa',
-					300: '#fdba74',
-					400: '#fb923c',
-					500: '#f97316',
-					600: '#ea580c',
-					700: '#c2410c',
-					800: '#9a3412',
-					900: '#7c2d12'
+				voltYellow: {
+					50: '#fffbeb',
+					100: '#fef3c7',
+					200: '#fde68a',
+					300: '#fcd34d',
+					400: '#fbbf24',
+					500: '#FFD700',
+					600: '#FFEE32',
+					700: '#eab308',
+					800: '#ca8a04',
+					900: '#a16207'
 				},
 				destructive: {
 					DEFAULT: 'hsl(var(--destructive))',
